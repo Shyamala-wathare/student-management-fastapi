@@ -1,0 +1,632 @@
+2025-11-04 20:49:45,227 - INFO - Application Started
+2025-11-04 21:04:36,893 - INFO - Application Started
+2025-11-04 22:00:41,843 - INFO - Application Started
+2025-11-04 22:03:51,965 - INFO - Application Started
+2025-11-04 22:04:08,498 - INFO - Application Started
+2025-11-04 22:06:32,359 - INFO - Application Started
+2025-11-04 22:08:33,234 - INFO - Application Started
+2025-11-04 22:09:02,101 - INFO - Application Started
+2025-11-04 22:09:14,871 - INFO - Application Started
+2025-11-04 22:09:39,383 - INFO - Fetching students: skip=0, limit=100
+2025-11-04 22:13:15,636 - INFO - Application Started
+2025-11-04 22:13:15,652 - INFO - Started server process [3284]
+2025-11-04 22:13:15,652 - INFO - Started server process [3284]
+2025-11-04 22:13:15,655 - INFO - Waiting for application startup.
+2025-11-04 22:13:15,655 - INFO - Waiting for application startup.
+2025-11-04 22:13:15,657 - INFO - Application startup complete.
+2025-11-04 22:13:15,657 - INFO - Application startup complete.
+2025-11-04 22:13:41,096 - INFO - 127.0.0.1:63457 - "GET /docs HTTP/1.1" 200
+2025-11-04 22:13:41,429 - INFO - 127.0.0.1:63457 - "GET /openapi.json HTTP/1.1" 200
+2025-11-04 22:14:01,281 - INFO - Fetching students: skip=0, limit=100
+2025-11-04 22:14:01,401 - INFO - 127.0.0.1:63409 - "GET /students/?skip=0&limit=100 HTTP/1.1" 200
+2025-11-04 22:17:08,989 - INFO - Shutting down
+2025-11-04 22:17:08,989 - INFO - Shutting down
+2025-11-04 22:17:09,091 - INFO - Waiting for application shutdown.
+2025-11-04 22:17:09,091 - INFO - Waiting for application shutdown.
+2025-11-04 22:17:09,092 - INFO - Application shutdown complete.
+2025-11-04 22:17:09,092 - INFO - Application shutdown complete.
+2025-11-04 22:17:09,095 - INFO - Finished server process [3284]
+2025-11-04 22:17:09,095 - INFO - Finished server process [3284]
+2025-11-04 22:17:11,459 - INFO - Application Started
+2025-11-04 22:17:11,484 - INFO - Started server process [13096]
+2025-11-04 22:17:11,484 - INFO - Started server process [13096]
+2025-11-04 22:17:11,484 - INFO - Waiting for application startup.
+2025-11-04 22:17:11,484 - INFO - Waiting for application startup.
+2025-11-04 22:17:11,486 - INFO - Application startup complete.
+2025-11-04 22:17:11,486 - INFO - Application startup complete.
+2025-11-04 22:17:34,819 - INFO - Shutting down
+2025-11-04 22:17:34,819 - INFO - Shutting down
+2025-11-04 22:17:34,926 - INFO - Waiting for application shutdown.
+2025-11-04 22:17:34,926 - INFO - Waiting for application shutdown.
+2025-11-04 22:17:34,929 - INFO - Application shutdown complete.
+2025-11-04 22:17:34,929 - INFO - Application shutdown complete.
+2025-11-04 22:17:34,930 - INFO - Finished server process [13096]
+2025-11-04 22:17:34,930 - INFO - Finished server process [13096]
+2025-11-04 22:18:23,331 - INFO - Application Started
+2025-11-04 22:18:23,418 - INFO - Started server process [14400]
+2025-11-04 22:18:23,418 - INFO - Started server process [14400]
+2025-11-04 22:18:23,418 - INFO - Waiting for application startup.
+2025-11-04 22:18:23,418 - INFO - Waiting for application startup.
+2025-11-04 22:18:23,420 - INFO - Application startup complete.
+2025-11-04 22:18:23,420 - INFO - Application startup complete.
+2025-11-04 22:18:50,352 - INFO - 127.0.0.1:64123 - "GET /docs HTTP/1.1" 200
+2025-11-04 22:18:50,712 - INFO - 127.0.0.1:64123 - "GET /openapi.json HTTP/1.1" 200
+2025-11-04 22:18:58,022 - INFO - 127.0.0.1:58242 - "GET /students/?skip=0&limit=100 HTTP/1.1" 200
+2025-11-04 22:24:27,431 - INFO - Shutting down
+2025-11-04 22:24:27,431 - INFO - Shutting down
+2025-11-04 22:24:27,541 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:27,541 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:27,545 - INFO - Application shutdown complete.
+2025-11-04 22:24:27,545 - INFO - Application shutdown complete.
+2025-11-04 22:24:27,547 - INFO - Finished server process [14400]
+2025-11-04 22:24:27,547 - INFO - Finished server process [14400]
+2025-11-04 22:24:31,044 - INFO - Application Started
+2025-11-04 22:24:31,078 - INFO - Started server process [6824]
+2025-11-04 22:24:31,078 - INFO - Started server process [6824]
+2025-11-04 22:24:31,079 - INFO - Waiting for application startup.
+2025-11-04 22:24:31,079 - INFO - Waiting for application startup.
+2025-11-04 22:24:31,081 - INFO - Application startup complete.
+2025-11-04 22:24:31,081 - INFO - Application startup complete.
+2025-11-04 22:24:32,803 - INFO - Shutting down
+2025-11-04 22:24:32,803 - INFO - Shutting down
+2025-11-04 22:24:32,910 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:32,910 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:32,917 - INFO - Application shutdown complete.
+2025-11-04 22:24:32,917 - INFO - Application shutdown complete.
+2025-11-04 22:24:32,920 - INFO - Finished server process [6824]
+2025-11-04 22:24:32,920 - INFO - Finished server process [6824]
+2025-11-04 22:24:35,956 - INFO - Application Started
+2025-11-04 22:24:36,008 - INFO - Started server process [10808]
+2025-11-04 22:24:36,008 - INFO - Started server process [10808]
+2025-11-04 22:24:36,015 - INFO - Waiting for application startup.
+2025-11-04 22:24:36,015 - INFO - Waiting for application startup.
+2025-11-04 22:24:36,022 - INFO - Application startup complete.
+2025-11-04 22:24:36,022 - INFO - Application startup complete.
+2025-11-04 22:24:37,297 - INFO - Shutting down
+2025-11-04 22:24:37,297 - INFO - Shutting down
+2025-11-04 22:24:37,400 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:37,400 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:37,407 - INFO - Application shutdown complete.
+2025-11-04 22:24:37,407 - INFO - Application shutdown complete.
+2025-11-04 22:24:37,412 - INFO - Finished server process [10808]
+2025-11-04 22:24:37,412 - INFO - Finished server process [10808]
+2025-11-04 22:24:39,991 - INFO - Application Started
+2025-11-04 22:24:40,012 - INFO - Started server process [5444]
+2025-11-04 22:24:40,012 - INFO - Started server process [5444]
+2025-11-04 22:24:40,013 - INFO - Waiting for application startup.
+2025-11-04 22:24:40,013 - INFO - Waiting for application startup.
+2025-11-04 22:24:40,015 - INFO - Application startup complete.
+2025-11-04 22:24:40,015 - INFO - Application startup complete.
+2025-11-04 22:24:42,585 - INFO - Shutting down
+2025-11-04 22:24:42,585 - INFO - Shutting down
+2025-11-04 22:24:42,699 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:42,699 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:42,700 - INFO - Application shutdown complete.
+2025-11-04 22:24:42,700 - INFO - Application shutdown complete.
+2025-11-04 22:24:42,702 - INFO - Finished server process [5444]
+2025-11-04 22:24:42,702 - INFO - Finished server process [5444]
+2025-11-04 22:24:45,427 - INFO - Application Started
+2025-11-04 22:24:45,444 - INFO - Started server process [1532]
+2025-11-04 22:24:45,444 - INFO - Started server process [1532]
+2025-11-04 22:24:45,444 - INFO - Waiting for application startup.
+2025-11-04 22:24:45,444 - INFO - Waiting for application startup.
+2025-11-04 22:24:45,446 - INFO - Application startup complete.
+2025-11-04 22:24:45,446 - INFO - Application startup complete.
+2025-11-04 22:24:46,210 - INFO - Shutting down
+2025-11-04 22:24:46,210 - INFO - Shutting down
+2025-11-04 22:24:46,325 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:46,325 - INFO - Waiting for application shutdown.
+2025-11-04 22:24:46,327 - INFO - Application shutdown complete.
+2025-11-04 22:24:46,327 - INFO - Application shutdown complete.
+2025-11-04 22:24:46,328 - INFO - Finished server process [1532]
+2025-11-04 22:24:46,328 - INFO - Finished server process [1532]
+2025-11-04 22:24:49,618 - INFO - Application Started
+2025-11-04 22:24:49,641 - INFO - Started server process [7552]
+2025-11-04 22:24:49,641 - INFO - Started server process [7552]
+2025-11-04 22:24:49,643 - INFO - Waiting for application startup.
+2025-11-04 22:24:49,643 - INFO - Waiting for application startup.
+2025-11-04 22:24:49,644 - INFO - Application startup complete.
+2025-11-04 22:24:49,644 - INFO - Application startup complete.
+2025-11-04 22:24:49,739 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:24:49,739 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:24:52,528 - INFO - Application Started
+2025-11-04 22:24:52,560 - INFO - Started server process [2660]
+2025-11-04 22:24:52,560 - INFO - Started server process [2660]
+2025-11-04 22:24:52,560 - INFO - Waiting for application startup.
+2025-11-04 22:24:52,560 - INFO - Waiting for application startup.
+2025-11-04 22:24:52,562 - INFO - Application startup complete.
+2025-11-04 22:24:52,562 - INFO - Application startup complete.
+2025-11-04 22:25:02,785 - INFO - Shutting down
+2025-11-04 22:25:02,785 - INFO - Shutting down
+2025-11-04 22:25:02,897 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:02,897 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:02,900 - INFO - Application shutdown complete.
+2025-11-04 22:25:02,900 - INFO - Application shutdown complete.
+2025-11-04 22:25:02,901 - INFO - Finished server process [2660]
+2025-11-04 22:25:02,901 - INFO - Finished server process [2660]
+2025-11-04 22:25:05,503 - INFO - Application Started
+2025-11-04 22:25:05,522 - INFO - Started server process [12096]
+2025-11-04 22:25:05,522 - INFO - Started server process [12096]
+2025-11-04 22:25:05,522 - INFO - Waiting for application startup.
+2025-11-04 22:25:05,522 - INFO - Waiting for application startup.
+2025-11-04 22:25:05,523 - INFO - Application startup complete.
+2025-11-04 22:25:05,523 - INFO - Application startup complete.
+2025-11-04 22:25:05,747 - INFO - Shutting down
+2025-11-04 22:25:05,747 - INFO - Shutting down
+2025-11-04 22:25:05,860 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:05,860 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:05,862 - INFO - Application shutdown complete.
+2025-11-04 22:25:05,862 - INFO - Application shutdown complete.
+2025-11-04 22:25:05,864 - INFO - Finished server process [12096]
+2025-11-04 22:25:05,864 - INFO - Finished server process [12096]
+2025-11-04 22:25:08,474 - INFO - Application Started
+2025-11-04 22:25:08,489 - INFO - Started server process [21332]
+2025-11-04 22:25:08,489 - INFO - Started server process [21332]
+2025-11-04 22:25:08,490 - INFO - Waiting for application startup.
+2025-11-04 22:25:08,490 - INFO - Waiting for application startup.
+2025-11-04 22:25:08,491 - INFO - Application startup complete.
+2025-11-04 22:25:08,491 - INFO - Application startup complete.
+2025-11-04 22:25:08,715 - INFO - Shutting down
+2025-11-04 22:25:08,715 - INFO - Shutting down
+2025-11-04 22:25:08,823 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:08,823 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:08,824 - INFO - Application shutdown complete.
+2025-11-04 22:25:08,824 - INFO - Application shutdown complete.
+2025-11-04 22:25:08,827 - INFO - Finished server process [21332]
+2025-11-04 22:25:08,827 - INFO - Finished server process [21332]
+2025-11-04 22:25:11,207 - INFO - Application Started
+2025-11-04 22:25:11,231 - INFO - Started server process [10788]
+2025-11-04 22:25:11,231 - INFO - Started server process [10788]
+2025-11-04 22:25:11,234 - INFO - Waiting for application startup.
+2025-11-04 22:25:11,234 - INFO - Waiting for application startup.
+2025-11-04 22:25:11,239 - INFO - Application startup complete.
+2025-11-04 22:25:11,239 - INFO - Application startup complete.
+2025-11-04 22:25:15,914 - INFO - Shutting down
+2025-11-04 22:25:15,914 - INFO - Shutting down
+2025-11-04 22:25:16,020 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:16,020 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:16,021 - INFO - Application shutdown complete.
+2025-11-04 22:25:16,021 - INFO - Application shutdown complete.
+2025-11-04 22:25:16,023 - INFO - Finished server process [10788]
+2025-11-04 22:25:16,023 - INFO - Finished server process [10788]
+2025-11-04 22:25:19,089 - INFO - Application Started
+2025-11-04 22:25:19,109 - INFO - Started server process [13996]
+2025-11-04 22:25:19,109 - INFO - Started server process [13996]
+2025-11-04 22:25:19,110 - INFO - Waiting for application startup.
+2025-11-04 22:25:19,110 - INFO - Waiting for application startup.
+2025-11-04 22:25:19,111 - INFO - Application startup complete.
+2025-11-04 22:25:19,111 - INFO - Application startup complete.
+2025-11-04 22:25:19,118 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:25:19,118 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:25:21,529 - INFO - Application Started
+2025-11-04 22:25:21,547 - INFO - Started server process [19752]
+2025-11-04 22:25:21,547 - INFO - Started server process [19752]
+2025-11-04 22:25:21,551 - INFO - Waiting for application startup.
+2025-11-04 22:25:21,551 - INFO - Waiting for application startup.
+2025-11-04 22:25:21,553 - INFO - Application startup complete.
+2025-11-04 22:25:21,553 - INFO - Application startup complete.
+2025-11-04 22:25:24,249 - INFO - Shutting down
+2025-11-04 22:25:24,249 - INFO - Shutting down
+2025-11-04 22:25:24,363 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:24,363 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:24,370 - INFO - Application shutdown complete.
+2025-11-04 22:25:24,370 - INFO - Application shutdown complete.
+2025-11-04 22:25:24,377 - INFO - Finished server process [19752]
+2025-11-04 22:25:24,377 - INFO - Finished server process [19752]
+2025-11-04 22:25:26,770 - INFO - Application Started
+2025-11-04 22:25:26,793 - INFO - Started server process [22124]
+2025-11-04 22:25:26,793 - INFO - Started server process [22124]
+2025-11-04 22:25:26,794 - INFO - Waiting for application startup.
+2025-11-04 22:25:26,794 - INFO - Waiting for application startup.
+2025-11-04 22:25:26,795 - INFO - Application startup complete.
+2025-11-04 22:25:26,795 - INFO - Application startup complete.
+2025-11-04 22:25:32,482 - INFO - Shutting down
+2025-11-04 22:25:32,482 - INFO - Shutting down
+2025-11-04 22:25:32,595 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:32,595 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:32,597 - INFO - Application shutdown complete.
+2025-11-04 22:25:32,597 - INFO - Application shutdown complete.
+2025-11-04 22:25:32,599 - INFO - Finished server process [22124]
+2025-11-04 22:25:32,599 - INFO - Finished server process [22124]
+2025-11-04 22:25:35,926 - INFO - Application Started
+2025-11-04 22:25:35,942 - INFO - Started server process [660]
+2025-11-04 22:25:35,942 - INFO - Started server process [660]
+2025-11-04 22:25:35,942 - INFO - Waiting for application startup.
+2025-11-04 22:25:35,942 - INFO - Waiting for application startup.
+2025-11-04 22:25:35,945 - INFO - Application startup complete.
+2025-11-04 22:25:35,945 - INFO - Application startup complete.
+2025-11-04 22:25:35,958 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:25:35,958 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:25:39,121 - INFO - Application Started
+2025-11-04 22:25:39,142 - INFO - Started server process [14752]
+2025-11-04 22:25:39,142 - INFO - Started server process [14752]
+2025-11-04 22:25:39,143 - INFO - Waiting for application startup.
+2025-11-04 22:25:39,143 - INFO - Waiting for application startup.
+2025-11-04 22:25:39,144 - INFO - Application startup complete.
+2025-11-04 22:25:39,144 - INFO - Application startup complete.
+2025-11-04 22:25:39,350 - INFO - Shutting down
+2025-11-04 22:25:39,350 - INFO - Shutting down
+2025-11-04 22:25:39,467 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:39,467 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:39,471 - INFO - Application shutdown complete.
+2025-11-04 22:25:39,471 - INFO - Application shutdown complete.
+2025-11-04 22:25:39,474 - INFO - Finished server process [14752]
+2025-11-04 22:25:39,474 - INFO - Finished server process [14752]
+2025-11-04 22:25:42,027 - INFO - Application Started
+2025-11-04 22:25:42,057 - INFO - Started server process [18712]
+2025-11-04 22:25:42,057 - INFO - Started server process [18712]
+2025-11-04 22:25:42,058 - INFO - Waiting for application startup.
+2025-11-04 22:25:42,058 - INFO - Waiting for application startup.
+2025-11-04 22:25:42,060 - INFO - Application startup complete.
+2025-11-04 22:25:42,060 - INFO - Application startup complete.
+2025-11-04 22:25:45,513 - INFO - Shutting down
+2025-11-04 22:25:45,513 - INFO - Shutting down
+2025-11-04 22:25:45,620 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:45,620 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:45,623 - INFO - Application shutdown complete.
+2025-11-04 22:25:45,623 - INFO - Application shutdown complete.
+2025-11-04 22:25:45,625 - INFO - Finished server process [18712]
+2025-11-04 22:25:45,625 - INFO - Finished server process [18712]
+2025-11-04 22:25:48,307 - INFO - Application Started
+2025-11-04 22:25:48,329 - INFO - Started server process [20832]
+2025-11-04 22:25:48,329 - INFO - Started server process [20832]
+2025-11-04 22:25:48,335 - INFO - Waiting for application startup.
+2025-11-04 22:25:48,335 - INFO - Waiting for application startup.
+2025-11-04 22:25:48,339 - INFO - Application startup complete.
+2025-11-04 22:25:48,339 - INFO - Application startup complete.
+2025-11-04 22:25:49,397 - INFO - Shutting down
+2025-11-04 22:25:49,397 - INFO - Shutting down
+2025-11-04 22:25:49,511 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:49,511 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:49,512 - INFO - Application shutdown complete.
+2025-11-04 22:25:49,512 - INFO - Application shutdown complete.
+2025-11-04 22:25:49,514 - INFO - Finished server process [20832]
+2025-11-04 22:25:49,514 - INFO - Finished server process [20832]
+2025-11-04 22:25:52,576 - INFO - Application Started
+2025-11-04 22:25:52,592 - INFO - Started server process [19988]
+2025-11-04 22:25:52,592 - INFO - Started server process [19988]
+2025-11-04 22:25:52,593 - INFO - Waiting for application startup.
+2025-11-04 22:25:52,593 - INFO - Waiting for application startup.
+2025-11-04 22:25:52,594 - INFO - Application startup complete.
+2025-11-04 22:25:52,594 - INFO - Application startup complete.
+2025-11-04 22:25:52,606 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:25:52,606 - ERROR - Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\starlette\routing.py", line 701, in lifespan
+    await receive()
+  File "C:\Users\shyam\AppData\Roaming\Python\Python314\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-11-04 22:25:55,058 - INFO - Application Started
+2025-11-04 22:25:55,075 - INFO - Started server process [11200]
+2025-11-04 22:25:55,075 - INFO - Started server process [11200]
+2025-11-04 22:25:55,076 - INFO - Waiting for application startup.
+2025-11-04 22:25:55,076 - INFO - Waiting for application startup.
+2025-11-04 22:25:55,077 - INFO - Application startup complete.
+2025-11-04 22:25:55,077 - INFO - Application startup complete.
+2025-11-04 22:25:57,765 - INFO - Shutting down
+2025-11-04 22:25:57,765 - INFO - Shutting down
+2025-11-04 22:25:57,876 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:57,876 - INFO - Waiting for application shutdown.
+2025-11-04 22:25:57,891 - INFO - Application shutdown complete.
+2025-11-04 22:25:57,891 - INFO - Application shutdown complete.
+2025-11-04 22:25:57,904 - INFO - Finished server process [11200]
+2025-11-04 22:25:57,904 - INFO - Finished server process [11200]
+2025-11-04 22:26:00,108 - INFO - Application Started
+2025-11-04 22:26:00,137 - INFO - Started server process [17500]
+2025-11-04 22:26:00,137 - INFO - Started server process [17500]
+2025-11-04 22:26:00,141 - INFO - Waiting for application startup.
+2025-11-04 22:26:00,141 - INFO - Waiting for application startup.
+2025-11-04 22:26:00,144 - INFO - Application startup complete.
+2025-11-04 22:26:00,144 - INFO - Application startup complete.
+2025-11-04 22:27:40,128 - INFO - Application Started
+2025-11-04 22:27:40,168 - INFO - Started server process [15056]
+2025-11-04 22:27:40,168 - INFO - Started server process [15056]
+2025-11-04 22:27:40,170 - INFO - Waiting for application startup.
+2025-11-04 22:27:40,170 - INFO - Waiting for application startup.
+2025-11-04 22:27:40,171 - INFO - Application startup complete.
+2025-11-04 22:27:40,171 - INFO - Application startup complete.
+2025-11-04 22:27:51,347 - INFO - 127.0.0.1:61711 - "GET /docs HTTP/1.1" 200
+2025-11-04 22:27:51,796 - INFO - 127.0.0.1:61711 - "GET /openapi.json HTTP/1.1" 200
+2025-11-04 22:27:56,813 - INFO - 127.0.0.1:61711 - "GET /students/?skip=0&limit=100 HTTP/1.1" 200
+2025-11-04 22:33:21,638 - INFO - Shutting down
+2025-11-04 22:33:21,638 - INFO - Shutting down
+2025-11-04 22:33:21,755 - INFO - Waiting for application shutdown.
+2025-11-04 22:33:21,755 - INFO - Waiting for application shutdown.
+2025-11-04 22:33:21,758 - INFO - Application shutdown complete.
+2025-11-04 22:33:21,758 - INFO - Application shutdown complete.
+2025-11-04 22:33:21,759 - INFO - Finished server process [15056]
+2025-11-04 22:33:21,759 - INFO - Finished server process [15056]
+2025-11-04 22:33:23,783 - INFO - Application Started
+2025-11-04 22:33:23,783 - INFO - Application Started
+2025-11-04 22:33:23,803 - INFO - Started server process [14124]
+2025-11-04 22:33:23,803 - INFO - Started server process [14124]
+2025-11-04 22:33:23,807 - INFO - Waiting for application startup.
+2025-11-04 22:33:23,807 - INFO - Waiting for application startup.
+2025-11-04 22:33:23,809 - INFO - Application startup complete.
+2025-11-04 22:33:23,809 - INFO - Application startup complete.
+2025-11-04 22:33:30,458 - INFO - Shutting down
+2025-11-04 22:33:30,458 - INFO - Shutting down
+2025-11-04 22:33:30,572 - INFO - Waiting for application shutdown.
+2025-11-04 22:33:30,572 - INFO - Waiting for application shutdown.
+2025-11-04 22:33:30,574 - INFO - Application shutdown complete.
+2025-11-04 22:33:30,574 - INFO - Application shutdown complete.
+2025-11-04 22:33:30,576 - INFO - Finished server process [14124]
+2025-11-04 22:33:30,576 - INFO - Finished server process [14124]
+2025-11-04 22:33:32,465 - INFO - Application Started
+2025-11-04 22:33:32,515 - INFO - Started server process [22908]
+2025-11-04 22:33:32,515 - INFO - Started server process [22908]
+2025-11-04 22:33:32,516 - INFO - Waiting for application startup.
+2025-11-04 22:33:32,516 - INFO - Waiting for application startup.
+2025-11-04 22:33:32,517 - INFO - Application startup complete.
+2025-11-04 22:33:32,517 - INFO - Application startup complete.
+2025-11-04 22:33:46,319 - INFO - Shutting down
+2025-11-04 22:33:46,319 - INFO - Shutting down
+2025-11-04 22:33:46,422 - INFO - Waiting for application shutdown.
+2025-11-04 22:33:46,422 - INFO - Waiting for application shutdown.
+2025-11-04 22:33:46,424 - INFO - Application shutdown complete.
+2025-11-04 22:33:46,424 - INFO - Application shutdown complete.
+2025-11-04 22:33:46,425 - INFO - Finished server process [22908]
+2025-11-04 22:33:46,425 - INFO - Finished server process [22908]
+2025-11-04 22:33:48,580 - INFO - Application Started
+2025-11-04 22:33:48,597 - INFO - Started server process [22412]
+2025-11-04 22:33:48,597 - INFO - Started server process [22412]
+2025-11-04 22:33:48,597 - INFO - Waiting for application startup.
+2025-11-04 22:33:48,597 - INFO - Waiting for application startup.
+2025-11-04 22:33:48,599 - INFO - Application startup complete.
+2025-11-04 22:33:48,599 - INFO - Application startup complete.
+2025-11-04 22:33:59,492 - INFO - Application Started
+2025-11-04 22:33:59,510 - INFO - Started server process [8984]
+2025-11-04 22:33:59,510 - INFO - Started server process [8984]
+2025-11-04 22:33:59,511 - INFO - Waiting for application startup.
+2025-11-04 22:33:59,511 - INFO - Waiting for application startup.
+2025-11-04 22:33:59,512 - INFO - Application startup complete.
+2025-11-04 22:33:59,512 - INFO - Application startup complete.
+2025-11-04 22:34:31,496 - INFO - 127.0.0.1:60241 - "GET /docs HTTP/1.1" 200
+2025-11-04 22:34:31,798 - INFO - 127.0.0.1:60241 - "GET /openapi.json HTTP/1.1" 200
+2025-11-04 22:34:36,526 - INFO - 127.0.0.1:60241 - "GET /students/?skip=0&limit=100 HTTP/1.1" 200
+2025-11-04 22:34:40,478 - INFO - 127.0.0.1:60241 - "GET /students/?skip=0&limit=100 HTTP/1.1" 200
+2025-11-04 22:50:28,294 - INFO - 127.0.0.1:62743 - "GET /docs HTTP/1.1" 200
+2025-11-04 22:50:28,621 - INFO - 127.0.0.1:62743 - "GET /openapi.json HTTP/1.1" 200
+2025-11-04 22:54:39,984 - INFO - Shutting down
+2025-11-04 22:54:39,984 - INFO - Shutting down
+2025-11-04 22:54:40,089 - INFO - Waiting for application shutdown.
+2025-11-04 22:54:40,089 - INFO - Waiting for application shutdown.
+2025-11-04 22:54:40,091 - INFO - Application shutdown complete.
+2025-11-04 22:54:40,091 - INFO - Application shutdown complete.
+2025-11-04 22:54:40,093 - INFO - Finished server process [8984]
+2025-11-04 22:54:40,093 - INFO - Finished server process [8984]
